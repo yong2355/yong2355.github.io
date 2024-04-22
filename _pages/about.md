@@ -2,7 +2,7 @@
 layout: about
 title: Junyong Park
 permalink: /
-subtitle: <a href='#'>M.S. Student, Electrical and Computer Engineering, Seoul National University</a>.
+subtitle: <a href='#'>M.S. Student, Electrical and Computer Engineering, Seoul National University</a>
 
 profile:
   align: right
