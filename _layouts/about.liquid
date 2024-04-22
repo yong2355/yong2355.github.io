@@ -73,11 +73,11 @@ layout: default
     {% endif %}
 
     <!-- Awards -->
-    {% if page.award %}
+    {% if page.awards %}
       <h2>
         <a href="{{ '/awards/' | relative_url }}" style="color: inherit">Awards</a>
       <h2>
-      {% include latest_posts.liquid %}
+      {% include awards.liquid %}
     {% endif %}
 
 
