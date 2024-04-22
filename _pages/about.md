@@ -17,7 +17,7 @@ teaching: true
 award: true
 ---
 
-Hi! I am a first-year M.S. student at [ECE](https://ece.snu.ac.kr/en), [Seoul National University](https://en.snu.ac.kr). I am currently advised by [Prof. Jaewoong Sim](https://jaewoong.org/) and a member of the Computer Architecture and Systems Lab. <br />
-I received my B.S. degree from [Seoul National University](https://ece.snu.ac.kr/en) (2024).
+I am a first-year M.S. student at [ECE](https://ece.snu.ac.kr/en), [Seoul National University](https://en.snu.ac.kr). I am a member of the Computer Architecture and Systems Lab, advised by [Prof. Jaewoong Sim](https://jaewoong.org/). <br />
+I received my B.S. degree from [Seoul National University](https://ece.snu.ac.kr/en) in electrical and computer engineering (2024).
 
-I have general research interests in GPU microarchitecture and the architectural support for emerging workloads, particularly graphics tasks such as neural rendering, in mobile/edge computing platforms.
+My research interests are in computer architecture, particularly in providing an efficient accelerator system for emerging workloads, such as neural rendering.
