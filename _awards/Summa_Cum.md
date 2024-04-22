@@ -6,4 +6,5 @@ inline: true
 ---
 
 SNU Summa Cum Laude
+
 * Dept. of Electrical and Computer Engineering, Seoul National University
