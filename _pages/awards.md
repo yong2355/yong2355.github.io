@@ -7,4 +7,4 @@ nav: true
 nav_order: 9
 ---
 
-{% include teaching.liquid %}
+{% include awards.liquid %}
