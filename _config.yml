@@ -182,6 +182,11 @@ collections:
       layout: post
     output: true
     permalink: /teaching/:path/
+  awards:
+    defaults:
+      layout: post
+    output: true
+    permalink: /awards/:path/
 
 announcements:
   enabled: false
